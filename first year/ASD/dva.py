@@ -59,7 +59,7 @@ for i in range(count):
 print("\nсгенерированные числа:", numbers)
 
 user_mode = input(
-    "выберите режим (basic / advanced / scientific) [по умолчанию basic]: "
+    "\nвыберите режим (basic / advanced / scientific) [по умолчанию basic]: "
 )
 
 if user_mode == "":
